@@ -68,4 +68,4 @@ To run the unit tests, execute the following command: -> `pytest`
 
 Make sure you have `pytest` installed in your Python environment.
 
-Feel free to add more test cases or functions as needed!
+Feel free to add more test cases!
